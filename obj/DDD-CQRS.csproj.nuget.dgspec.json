@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\germa\\Desktop\\DDD\\DDD-CQRS\\DDD-CQRS.csproj": {}
+    "c:\\Users\\germa\\Desktop\\DDD\\DDD-CQRS\\DDD-CQRS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\germa\\Desktop\\DDD\\DDD-CQRS\\DDD-CQRS.csproj": {
+    "c:\\Users\\germa\\Desktop\\DDD\\DDD-CQRS\\DDD-CQRS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\germa\\Desktop\\DDD\\DDD-CQRS\\DDD-CQRS.csproj",
+        "projectUniqueName": "c:\\Users\\germa\\Desktop\\DDD\\DDD-CQRS\\DDD-CQRS.csproj",
         "projectName": "DDD-CQRS",
-        "projectPath": "C:\\Users\\germa\\Desktop\\DDD\\DDD-CQRS\\DDD-CQRS.csproj",
+        "projectPath": "c:\\Users\\germa\\Desktop\\DDD\\DDD-CQRS\\DDD-CQRS.csproj",
         "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\germa\\Desktop\\DDD\\DDD-CQRS\\obj\\",
+        "outputPath": "c:\\Users\\germa\\Desktop\\DDD\\DDD-CQRS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m9v2RIn6cMY4nlblYn5RoThfbFMlnysQGyOMw6HtXSDNb2YdBxnOKSEOwkD9ZlyU+PNma0/DMP46S05TIifCMA==",
+  "dgSpecHash": "AkecWvQ9hjUDTtRB+xyzwNzr4GQduJcl1zTF1W6+9ta/UyPsasqbzo3qCKnXVtis+I0wu3/rW5aZiptqdgRr4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\germa\\Desktop\\DDD\\DDD-CQRS\\DDD-CQRS.csproj",
+  "projectFilePath": "c:\\Users\\germa\\Desktop\\DDD\\DDD-CQRS\\DDD-CQRS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\germa\\.nuget\\packages\\carter\\6.0.0\\carter.6.0.0.nupkg.sha512",
     "C:\\Users\\germa\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
