@@ -1,0 +1,6 @@
+@DDD_CQRS_HostAddress = http://localhost:5048
+
+GET {{DDD_CQRS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
